@@ -39,3 +39,6 @@
 ### Callback in training
 - each training loop calls on_epoch_end()
 - if you define the function you can end the training when metrics are met.
+
+### Where to get Images
+Pixabay
